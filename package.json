@@ -1,0 +1,23 @@
+{
+  "name": "slackclone",
+  "version": "1.0.0",
+  "description": "a Slack clone for practice",
+  "main": "slack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trweisa/slackClone.git"
+  },
+  "author": "Tom Weisansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trweisa/slackClone/issues"
+  },
+  "homepage": "https://github.com/trweisa/slackClone#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
